@@ -1,0 +1,37 @@
+#TIPE_DATA
+nama = ("Romi Ramadhan")
+print (nama,type(nama))
+tanggal_lahir = 27
+print (tanggal_lahir,type(tanggal_lahir))
+angka = 18.10
+print (angka,type(angka))
+a = 3<9
+print (a,type(a))
+
+#ARITMATIKA
+a = 3
+b = 9
+#PENJUMLAHAN
+print (a+b)
+#PENGURANGAN
+print (a-b)
+#PERKALIAN
+print (a*b)
+#PEMBAGIAN
+print (a/b)
+#SISA BAGI
+print (a%b)
+#PEMBAGIAN BULAT
+print (a//b)
+
+#PERCABANGAN IF
+Nilai = 70
+if (Nilai >=65):
+    print ("Nilai C")
+    
+#PERCABANGAN IF ELSE
+nilai = 50
+if (nilai >= 65):
+    print ("LULUS")
+else :
+    print ("TIDAK LULUS")
